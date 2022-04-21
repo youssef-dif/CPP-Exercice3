@@ -1,0 +1,5 @@
+IS 	|Nr matricol 	|Grupa 	|Puncte proba practica 	|Puncte examen 	|Puncte tema 1 	|Puncte tema 2 	|Puncte tema 3 	|Puncte tema 4 	|Puncte tema 5 	|Puncte tema 6 	|Puncte tema 7 	|Puncte tema 8 	|Puncte tema 9 	|Puncte tema 10 	
+1 	|1 		|1 	|1 			|1 		|1 		|1 		|1 		|1 		|1 		|1 		|1 		|1 		|1 		|1 		
+1 	|2 		|1 	|10 			|9 		|7 		|8 		|9 		|10 		|10 		|9 		|9 		|9 		|9 		|6 		
+1 	|3 		|1 	|1 			|1 		|1 		|1 		|1 		|1 		|1 		|1 		|1 		|1 		|1 		|1 		
+1 	|4 		|1 	|8 			|8 		|7 		|8 		|9 		|10 		|8 		|8 		|8 		|9 		|10 		|8 		
